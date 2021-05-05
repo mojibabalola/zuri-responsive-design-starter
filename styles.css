@@ -389,7 +389,7 @@ div.footer h6 {
 	padding-top: 6rem;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 540px) {
 	div.nav-bar {
 		padding: 1rem;
 		padding-right: 1.5rem;
